@@ -55,7 +55,13 @@ PyPDF2: PDF text extraction
 Groq Cloud API: For summarization, question generation, and chatbot functionality
 Bootstrap: For styling the interface
 
+
+
+
 ""I will add images later""
+
+
+
 
 
 Future Improvements
